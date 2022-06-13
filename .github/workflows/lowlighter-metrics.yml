@@ -27,7 +27,7 @@ jobs:
           # Options
           user: bM7tcHF88GBxDni
           template: classic
-          base: header, activity
+          base: header
           config_display: columns
           config_timezone: Europe/London
           plugin_isocalendar: yes
@@ -42,4 +42,3 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          repositories_forks: yes
