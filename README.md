@@ -8,7 +8,7 @@
     <a href="https://linkedin.com/in/johnsonsingh" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="johnsonsingh" height="20" width="20" />
-        <p>I'm open to work, and super responsive on LinkedIn!</p>
+        <p>I'm open to web dev work and super responsive on LinkedIn!</p>
     </a>
 </div>
 <h1></h1>
