@@ -27,10 +27,8 @@ jobs:
           # Options
           user: bM7tcHF88GBxDni
           template: classic
-          base: header, activity, community, repositories, metadata
-          base_hireable: yes
-          base_indepth: yes
-          config_display: large
+          base: header, activity
+          config_display: columns
           config_timezone: Europe/London
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
