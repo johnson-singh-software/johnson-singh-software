@@ -47,33 +47,66 @@ NextJS, ExpressJS, Github Actions, PostgreSQL, Heroku, Jest, SuperTest
 - Meal plan guide and planner, and recipe search and shopping app
 - Independently used new tech: NextJS and GitHub Actions (Continuous Testing and Deployment)
 - Testing with Jest, React Testing Library, and SuperTest
+- Uses external and internal API back end
 
 ### JWT Authentication and Authorisation (Back End)
 
-ExpressJS, JWT, BCryptJS, Postman
 ![Repository](https://github.com/bM7tcHF88GBxDni/authentication-and-authorisation)
 
-### Driving and Exploration
+ExpressJS, JWT, BCryptJS, Postman
 
-C#, Blender, Unity 3D
+- An Express authentication back end using JSON Web Tokens for authentication and authorisation
+- API endpoints for signing up as a new user, logging in, and accessing a secure profile route
+
+### Driving and Exploration (Game Development)
+
 ![Repository + Previews](https://github.com/bM7tcHF88GBxDni/DrivingAndExploration)
 
-### First Person Climbing, NPCs
+C#, Blender, Unity 3D
 
-C#, Unity 3D, Blender
+- Physics based vehicle mechanics for a driving and exploration project
+- Large 3D modelled world to drive around in
+- Design accurate roads modelled using bezier curves and mesh arrays
+
+### First Person Climbing, NPCs (Game Development)
+
 ![Repository + Previews](https://github.com/bM7tcHF88GBxDni/FirstPersonProject)
 
-### Newsy
+C#, Unity 3D, Blender
 
-Tailwind React
+- Built FPS climbing mechanic, versatile- can be used on any 3D object by simply adding a layer property
+- Some terrain and buildings were generated using open source Geographic Information System data and Blender
+- NPC Crowd mechanics using Unity's Navigation and Pathfinding
+
+### Newsy (Front End)
+
 ![Live](newsy-newsy.netlify.app), ![Repository](https://github.com/bM7tcHF88GBxDni/newsy)
 
-### Primarc Live
+Tailwind, React
 
-React
+- First project properly using Tailwind
+- Mobile first design, responsive app
+- Conditionally renders components such as SearchBar and Menu in different parts of the app when in desktop or mobile view e.g. in mobile view the SearchBar renders at the bottom of the screen for comfortable thumb use and in desktop view it renders next to the website logo at the top of the page
+- Light/Dark mode toggle
+- Fetches Data from external API
+
+### Primarc Live (Front End)
+
 ![Live](cabjprimarc.netlify.app), ![Repository](https://github.com/SchoolOfCode/primarc)
 
-### Sneaker Store
+React
 
-React React-Spring
+- Built in 5 hours during a hackathon with a team of 4
+- Mobile first design, responsive app
+- Light/Dark mode toggle
+- React Testing Library tests
+- Fetches Data from external API
+
+### Sneaker Store (Front End)
+
 ![Live](https://sneak-sneak.netlify.app/), ![Repository](https://github.com/bM7tcHF88GBxDni/sneaker-store)
+
+React, React-Spring
+
+- Mobile first design, responsive app
+- First time properly using React-Spring for animations
