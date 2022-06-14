@@ -21,7 +21,7 @@
 
 ### Personal Site (Front End)
 
-![Live](johnson-singh.netlify.app), ![Repository](https://github.com/bM7tcHF88GBxDni/react-three-fiber-cannon-drei-007)
+[Live](https://johnson-singh.netlify.app), [Repository](https://github.com/bM7tcHF88GBxDni/react-three-fiber-cannon-drei-007)
 
 ThreeJS, React
 
@@ -30,7 +30,7 @@ ThreeJS, React
 
 ### 3D Sandbox, play it! (Front End)
 
-![Live](https://center-impulse.netlify.app), ![Repository](https://github.com/bM7tcHF88GBxDni/react-three-fiber-cannon-drei-005)
+[Live](https://center-impulse.netlify.app), [Repository](https://github.com/bM7tcHF88GBxDni/react-three-fiber-cannon-drei-005)
 
 ThreeJS, React
 
@@ -40,7 +40,7 @@ ThreeJS, React
 
 ### Phantom Kitchen (Full Stack)
 
-![Presentation](https://www.youtube.com/watch?v=n1A9Jk4iPKY), ![Live](development-phantom-kitchen.netlify.app)
+[Presentation](https://www.youtube.com/watch?v=n1A9Jk4iPKY), [Live](https://development-phantom-kitchen.netlify.app)
 
 NextJS, ExpressJS, Github Actions, PostgreSQL, Heroku, Jest, SuperTest
 
@@ -51,7 +51,7 @@ NextJS, ExpressJS, Github Actions, PostgreSQL, Heroku, Jest, SuperTest
 
 ### JWT Authentication and Authorisation (Back End)
 
-![Repository](https://github.com/bM7tcHF88GBxDni/authentication-and-authorisation)
+[Repository](https://github.com/bM7tcHF88GBxDni/authentication-and-authorisation)
 
 ExpressJS, JWT, BCryptJS, Postman
 
@@ -60,7 +60,7 @@ ExpressJS, JWT, BCryptJS, Postman
 
 ### Driving and Exploration (Game Development)
 
-![Repository + Previews](https://github.com/bM7tcHF88GBxDni/DrivingAndExploration)
+[Repository + Previews](https://github.com/bM7tcHF88GBxDni/DrivingAndExploration)
 
 C#, Blender, Unity 3D
 
@@ -70,7 +70,7 @@ C#, Blender, Unity 3D
 
 ### First Person Climbing, NPCs (Game Development)
 
-![Repository + Previews](https://github.com/bM7tcHF88GBxDni/FirstPersonProject)
+[Repository + Previews](https://github.com/bM7tcHF88GBxDni/FirstPersonProject)
 
 C#, Unity 3D, Blender
 
@@ -80,7 +80,7 @@ C#, Unity 3D, Blender
 
 ### Newsy (Front End)
 
-![Live](newsy-newsy.netlify.app), ![Repository](https://github.com/bM7tcHF88GBxDni/newsy)
+[Live](https://newsy-newsy.netlify.app), [Repository](https://github.com/bM7tcHF88GBxDni/newsy)
 
 Tailwind, React
 
@@ -92,7 +92,7 @@ Tailwind, React
 
 ### Primarc Live (Front End)
 
-![Live](cabjprimarc.netlify.app), ![Repository](https://github.com/SchoolOfCode/primarc)
+[Live](https://cabjprimarc.netlify.app), [Repository](https://github.com/SchoolOfCode/primarc)
 
 React
 
@@ -104,7 +104,7 @@ React
 
 ### Sneaker Store (Front End)
 
-![Live](https://sneak-sneak.netlify.app/), ![Repository](https://github.com/bM7tcHF88GBxDni/sneaker-store)
+[Live](https://sneak-sneak.netlify.app/), [Repository](https://github.com/bM7tcHF88GBxDni/sneaker-store)
 
 React, React-Spring
 
