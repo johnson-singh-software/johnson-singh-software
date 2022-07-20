@@ -4,9 +4,9 @@ on:
   # Schedule updates (each hour)
   # schedule: [{cron: "0 * * * *"}]
   # Schedule updates every two hours between 9AM to 7PM (runs 5 times a day)
-  #schedule: [{cron: "0 9-19/2 * * *"}]
-  # Schedule updates every two hours between 9AM to 7PM (runs 5 times a day)
-  schedule: [{cron: "0 0 * * *"}]
+  # schedule: [{cron: "0 9-19/2 * * *"}]
+  # Schedule updates twice a recruiter workday at 9AM and 1PM
+  schedule: [{cron: "0 9,1 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
