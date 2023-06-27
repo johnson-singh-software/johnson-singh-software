@@ -1,6 +1,6 @@
 <p align="center">👋 Hey, I'm Johnson!</p>
 <p align="center">
-    A Junior Front End developer with a lot of self taught and bootcamp skills in full stack web and game dev! 🚀
+    A front end developer, with a lot of self taught and bootcamp skills in full stack web and game dev! 🚀
 </p>
 
 <h1></h1>
