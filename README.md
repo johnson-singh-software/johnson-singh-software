@@ -25,7 +25,7 @@
 
 ThreeJS, React
 
-- Used ThreeJS and React to create a 3D world where the camera smoothly animations between different locations, from scratch
+- Used ThreeJS and React to create a 3D world where the camera smoothly animates between different locations, from scratch
 - App designed so React components physically exist in the 3D world, and otherwise act as normal DOM elements used for user interaction
 
 ### 3D Sandbox, play it! (Front End)
