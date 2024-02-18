@@ -17,7 +17,19 @@
 
 #### View Repository ReadMe/Plan.md For All Projects For Detailed Descriptions and Processes.
 
-### Personal Site (Front End)
+### Capital Trivia Quiz (Full Stack)
+
+[Preview GIFs + React Repository](https://github.com/johnson-singh-software/capital-quiz-react)
+
+[Serverless Repository](https://github.com/johnson-singh-software/capital-quiz-serverless-node)
+
+React, Serverless, AWS API Gateway, AWS Lambda Vite
+
+- Trivia quiz on country capitals
+- Provides positive/negative feedback intuitively with colours, fetches questions from API, start and exit quiz
+- AWS API endpoints calling an external API and normalizing data for FE consumption
+
+### (Old) 3D Personal Site (Front End)
 
 [Live](https://johnson-singh.netlify.app), [Repository](https://github.com/bM7tcHF88GBxDni/react-three-fiber-cannon-drei-007)
 
@@ -36,18 +48,6 @@ ThreeJS, React
 - Versatile system, it pushes on mesh faces so it works with any 3D models
 - Uses React Three Cannon physics engine.
 
-
-### Capital Trivia Quiz (Full Stack)
-
-[Preview GIFs + React Repository](https://github.com/johnson-singh-software/capital-quiz-react)
-
-[Serverless Repository](https://github.com/johnson-singh-software/capital-quiz-serverless-node)
-
-React, Serverless, AWS API Gateway, AWS Lambda Vite
-
-- Trivia quiz on country capitals
-- Provides positive/negative feedback intuitively with colours, fetches questions from API, start and exit quiz
-- AWS API endpoints calling an external API and normalizing data for FE consumption
 
 ### JWT Authentication and Authorisation (Back End)
 
