@@ -13,8 +13,6 @@
 </div>
 <h1></h1>
 
-![Metrics](https://metrics.lecoq.io/bM7tcHF88GBxDni?template=classic&base.header=0&base.community=0&base.repositories=0&isocalendar=1&languages=1&base.indepth=false&base.hireable=false&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FLondon&config.display=large)
-
 ## Projects
 
 #### View Repository ReadMe/Plan.md For All Projects For Detailed Descriptions and Processes.
@@ -38,6 +36,28 @@ ThreeJS, React
 - Versatile system, it pushes on mesh faces so it works with any 3D models
 - Uses React Three Cannon physics engine.
 
+
+### Capital Trivia Quiz (Full Stack)
+
+[Preview GIFs + React Repository](https://github.com/johnson-singh-software/capital-quiz-react)
+
+[Serverless Repository](https://github.com/johnson-singh-software/capital-quiz-serverless-node)
+
+React, Serverless, AWS API Gateway, AWS Lambda Vite
+
+- Trivia quiz on country capitals
+- Provides positive/negative feedback intuitively with colours, fetches questions from API, start and exit quiz
+- AWS API endpoints calling an external API and normalizing data for FE consumption
+
+### JWT Authentication and Authorisation (Back End)
+
+[Repository](https://github.com/bM7tcHF88GBxDni/authentication-and-authorisation)
+
+ExpressJS, JWT, BCryptJS, Postman
+
+- An Express authentication back end using JSON Web Tokens for authentication and authorisation
+- API endpoints for signing up as a new user, logging in, and accessing a secure profile route
+
 ### Phantom Kitchen (Full Stack)
 
 [Presentation](https://www.youtube.com/watch?v=n1A9Jk4iPKY), [Live](https://development-phantom-kitchen.netlify.app)
@@ -49,18 +69,9 @@ NextJS, ExpressJS, Github Actions, PostgreSQL, Heroku, Jest, SuperTest
 - Testing with Jest, React Testing Library, and SuperTest
 - Uses external and internal API back end
 
-### JWT Authentication and Authorisation (Back End)
-
-[Repository](https://github.com/bM7tcHF88GBxDni/authentication-and-authorisation)
-
-ExpressJS, JWT, BCryptJS, Postman
-
-- An Express authentication back end using JSON Web Tokens for authentication and authorisation
-- API endpoints for signing up as a new user, logging in, and accessing a secure profile route
-
 ### Driving and Exploration (Game Development)
 
-[Repository + Previews](https://github.com/bM7tcHF88GBxDni/DrivingAndExploration)
+[Preview GIFs + Repository](https://github.com/bM7tcHF88GBxDni/DrivingAndExploration)
 
 C#, Blender, Unity 3D
 
@@ -70,7 +81,7 @@ C#, Blender, Unity 3D
 
 ### First Person Climbing, NPCs (Game Development)
 
-[Repository + Previews](https://github.com/bM7tcHF88GBxDni/FirstPersonProject)
+[Preview GIFs + Repository](https://github.com/bM7tcHF88GBxDni/FirstPersonProject)
 
 C#, Unity 3D, Blender
 
@@ -78,29 +89,6 @@ C#, Unity 3D, Blender
 - Some terrain and buildings were generated using open source Geographic Information System data and Blender
 - NPC Crowd mechanics using Unity's Navigation and Pathfinding
 
-### Newsy (Front End)
-
-[Live](https://newsy-newsy.netlify.app), [Repository](https://github.com/bM7tcHF88GBxDni/newsy)
-
-Tailwind, React
-
-- First project properly using Tailwind
-- Mobile first design, responsive app
-- Conditionally renders components such as SearchBar and Menu in different parts of the app when in desktop or mobile view e.g. in mobile view the SearchBar renders at the bottom of the screen for comfortable thumb use and in desktop view it renders next to the website logo at the top of the page
-- Light/Dark mode toggle
-- Fetches Data from external API
-
-### Primarc Live (Front End)
-
-[Live](https://cabjprimarc.netlify.app), [Repository](https://github.com/SchoolOfCode/primarc)
-
-React
-
-- Built in 5 hours during a hackathon with a team of 4
-- Mobile first design, responsive app
-- Light/Dark mode toggle
-- React Testing Library tests
-- Fetches Data from external API
 
 ### Sneaker Store (Front End)
 
