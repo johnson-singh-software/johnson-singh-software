@@ -60,7 +60,7 @@ ExpressJS, JWT, BCryptJS, Postman
 
 ### Phantom Kitchen (Full Stack)
 
-[Presentation](https://www.youtube.com/watch?v=n1A9Jk4iPKY), [Live](https://development-phantom-kitchen.netlify.app)
+[Presentation](https://www.youtube.com/watch?v=n1A9Jk4iPKY)
 
 NextJS, ExpressJS, Github Actions, PostgreSQL, Heroku, Jest, SuperTest
 
