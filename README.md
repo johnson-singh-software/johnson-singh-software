@@ -23,7 +23,7 @@
 
 [Serverless Repository](https://github.com/johnson-singh-software/capital-quiz-serverless-node)
 
-React, Serverless, AWS API Gateway, AWS Lambda Vite
+React, Serverless, AWS API Gateway, AWS Lambda, Vite
 
 - Trivia quiz on country capitals
 - Provides positive/negative feedback intuitively with colours, fetches questions from API, start and exit quiz
