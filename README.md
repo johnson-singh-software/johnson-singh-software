@@ -1,14 +1,14 @@
-<p align="center">👋 Hey, I'm Johnson!</p>
+<p align="center">👋 Hey, I'm John!</p>
 <p align="center">
-    A front end developer, with a lot of self taught and bootcamp skills in full stack web and game dev! 🚀
+    A front end developer, with a lot of bootcamp and self taught skills in full stack web (and game dev)! 🚀
 </p>
 
 <h1></h1>
 <div align="center">
-    <a href="https://linkedin.com/in/johnsonsingh" target="blank">
+    <a href="www.linkedin.com/in/johnsinger2" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="johnsonsingh" height="20" width="20" />
-        <p>I'm open to web dev work (and game dev, if the fit is right!) and I'm super responsive on LinkedIn!</p>
+            alt="john singer" height="20" width="20" />
+        <p>I'm open to front end roles and I'm super responsive on LinkedIn!</p>
     </a>
 </div>
 <h1></h1>
